@@ -1,0 +1,10 @@
+var emp_name="kavitha";
+var emp_no=101;
+var is_avail=true;
+var sal;
+var size=[20,22,24,26];
+console.log(typeof emp_name);
+console.log(typeof emp_no);
+console.log(typeof is_avail);
+console.log(typeof sal);
+console.log(typeof size);
